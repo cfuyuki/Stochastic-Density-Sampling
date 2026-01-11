@@ -1,9 +1,7 @@
 # SDS: Stochastic Density Sampling
 ### Implementing Probabilistic Sampling for Architectural Density Design
 
-<img src="drawing.jpg" alt="drawing" width="200"/>
-
-![unnamed (5)](https://github.com/user-attachments/assets/3c8ca360-2b3d-4024-b2e9-d1ce6f876c94){width=200 height=100}
+![unnamed (5)](https://github.com/user-attachments/assets/3c8ca360-2b3d-4024-b2e9-d1ce6f876c94)
 ## 1. Introduction: Sequence or Existence?
 **"Do we shake the order, or do we question the existence?"**
 

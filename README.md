@@ -1,7 +1,8 @@
 # SDS: Stochastic Density Sampling
 ### Design "Nijimi (Bleeding)" - Implementing Probabilistic Sampling for Architectural Density Design
 
-![unnamed (5)](https://github.com/user-attachments/assets/3c8ca360-2b3d-4024-b2e9-d1ce6f876c94)
+![SDSFeatured](https://github.com/user-attachments/assets/888af6ad-d892-45f2-bc8a-d054416919ee)
+
 ## 1. Introduction: Sequence or Existence?
 **"Do we shake the order, or do we question the existence?"**
 
@@ -24,10 +25,16 @@ This repository provides a comparison between two distinct culling approaches:
 
 | Method | Logic | Characteristics | Output Quality |
 | :--- | :--- | :--- | :--- |
-| **Subset Culling** | Deterministic | Sorting by distance; extracts top N points. | Sharp, geometric boundaries. |
-| **Stochastic Sampling (SDS)** | Probabilistic | $R < P$ comparison per point. | Smooth, atmospheric "Nijimi" effect. |
+| **1 Subset Culling** | Deterministic | Sorting by distance; extracts top N points. | Sharp, geometric boundaries. |
+| **2 Stochastic Sampling (SDS)** | Probabilistic | $R < P$ comparison per point. | Smooth, atmospheric "Nijimi" effect. |
+
 
 Unlike deterministic methods, SDS ensures consistent gradient quality regardless of the population size, as the sampling logic is tied directly to the spatial coordinates $(x, y, z)$ rather than list indices.
+Please look for all comparision in details by visiting this [Medium Article](https://medium.com/@cfuyuki)
+
+
+<img width="3952" height="3001" alt="SDSComparision md" src="https://github.com/user-attachments/assets/b42497a1-c0b8-4c41-87d8-969fb366c42f" />
+
 
 ## 4. Getting Started
 ### Prerequisites

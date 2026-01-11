@@ -30,10 +30,14 @@ This repository provides a comparison between two distinct culling approaches:
 
 
 Unlike deterministic methods, SDS ensures consistent gradient quality regardless of the population size, as the sampling logic is tied directly to the spatial coordinates $(x, y, z)$ rather than list indices.
-Please look for all comparision in details by visiting this [Medium Article](https://medium.com/@cfuyuki)
+Please find all the comparisons in detail [Medium Article](https://medium.com/@cfuyuki)
+
+<img width="2957" height="2375" alt="SDSComparision md" src="https://github.com/user-attachments/assets/2c5b2eda-18a0-4ca1-aea3-d11d43b69c5c" />
+
+![SDS Result plus md](https://github.com/user-attachments/assets/6db859ea-9795-4ea9-b063-487aa546a294)
 
 
-<img width="3952" height="3001" alt="SDSComparision md" src="https://github.com/user-attachments/assets/b42497a1-c0b8-4c41-87d8-969fb366c42f" />
+<img width="7356" height="3600" alt="SDS Result catalog" src="https://github.com/user-attachments/assets/e7b5f643-4a8d-4920-bbf3-7f791efbaa7b" />
 
 
 ## 4. Getting Started

@@ -42,10 +42,10 @@ Unlike deterministic methods, SDS ensures consistent gradient quality regardless
 ---
 
 ## 5. Author
-**Chie Fuyuki (千枝 冬木)**
+**Chie Fuyuki (冬木千枝)**
 * PhD Candidate, Tsinghua University
 * Specializing in Computational Design and Generative AI in Architecture.
-* [Medium Article](https://medium.com/your-link) | [Portfolio](https://your-portfolio.com)
+* [Medium Article](https://medium.com/@cfuyuki) | [Research](https://tsvas.net/) | [Portfolio](https://tsynsth.net/)
 
 ---
 

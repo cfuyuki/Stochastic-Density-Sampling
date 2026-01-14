@@ -54,7 +54,7 @@ Please find all the comparisons in detail [Medium Article](https://medium.com/@c
 
 ## 5. Author
 **Chie Fuyuki (冬木千枝)**
-* PhD Candidate, Tsinghua University
+* PhD Candidate, Tsinghua University M.Arch, Pratt Institute
 * Specializing in Computational Design and Generative AI in Architecture.
 * [Medium Article](https://medium.com/@cfuyuki) | [NOTE Article JP]([https://medium.com/@cfuyuki](https://note.com/cfuyuki)) | [Research](https://tsvas.net/) | [Portfolio](https://tsynsth.net/)
 
